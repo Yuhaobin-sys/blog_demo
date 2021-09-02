@@ -15,12 +15,7 @@ import javax.validation.constraints.Size;
 
 import org.hibernate.validator.constraints.NotEmpty;
 
-/**
- * Catalog 实体
- * 
- * @since 1.0.0 2017年4月10日
- * @author <a href="https://waylau.com">Way Lau</a>
- */
+
 @Entity // 实体
 public class Catalog implements Serializable {
 	private static final long serialVersionUID = 1L;

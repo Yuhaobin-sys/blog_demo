@@ -11,12 +11,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 import com.waylau.spring.boot.blog.vo.Menu;
 
-/**
- * 用户控制器.
- * 
- * @author <a href="https://waylau.com">Way Lau</a>
- * @date 2017年2月26日
- */
+
 @Controller
 @RequestMapping("/admins")
 public class AdminController {

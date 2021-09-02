@@ -33,9 +33,6 @@ import com.waylau.spring.boot.blog.vo.TagVO;
 
 /**
  * EsBlog 服务.
- * 
- * @since 1.0.0 2017年4月12日
- * @author <a href="https://waylau.com">Way Lau</a>
  */
 @Service
 public class EsBlogServiceImpl implements EsBlogService {

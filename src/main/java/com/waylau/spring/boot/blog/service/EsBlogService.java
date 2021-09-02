@@ -12,9 +12,6 @@ import com.waylau.spring.boot.blog.vo.TagVO;
 
 /**
  * Blog 服务接口.
- * 
- * @since 1.0.0 2017年4月7日
- * @author <a href="https://waylau.com">Way Lau</a>
  */
 public interface EsBlogService {
  	

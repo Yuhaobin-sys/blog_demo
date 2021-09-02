@@ -8,12 +8,7 @@ import com.waylau.spring.boot.blog.domain.Blog;
 import com.waylau.spring.boot.blog.domain.Catalog;
 import com.waylau.spring.boot.blog.domain.User;
 
-/**
- * Blog 仓库.
- *
- * @since 1.0.0 2017年4月7日
- * @author <a href="https://waylau.com">Way Lau</a> 
- */
+
 public interface BlogRepository extends JpaRepository<Blog, Long>{
 	/**
 	 * 根据用户名分页查询用户列表（最新）

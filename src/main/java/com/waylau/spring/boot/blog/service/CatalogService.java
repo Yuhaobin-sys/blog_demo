@@ -7,9 +7,6 @@ import com.waylau.spring.boot.blog.domain.User;
 
 /**
  * Catalog 服务接口.
- * 
- * @since 1.0.0 2017年4月10日
- * @author <a href="https://waylau.com">Way Lau</a>
  */
 public interface CatalogService {
 	/**
